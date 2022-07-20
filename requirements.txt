@@ -1,0 +1,13 @@
+numpy==1.20.1
+six==1.12.0
+torch==1.7.1
+torchvision==0.8.2
+pandas==1.2.3
+tqdm==4.36.1
+transformers==4.3.2
+tensorboard
+ftfy
+nltk
+openpyxl
+prefetch_generator
+matplotlib
