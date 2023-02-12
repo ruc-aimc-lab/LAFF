@@ -28,7 +28,7 @@ msrvtt10ktrain/
 | MSR-VTT (MV-test3k) | 1.85 GB | https://pan.baidu.com/s/1ltPXtO7VJl7rDGFBCS5jZA?pwd=hdrn | [do_msrvtt.sh](do_msrvtt.sh) |
 | MV-test1k | - | - | [do_mvtest1k.sh](do_mvtest1k.sh) |
 | MSVD | 246.4 MB | https://pan.baidu.com/s/1ycrWqs-pGa4TJUUrOPWTAQ?pwd=qf2z | [do_msvd.sh](do_msvd.sh) |
-| TGIF | 3.7 GB | https://pan.baidu.com/s/15b4NHOemWZl8KMSgKZDSWw?pwd=ppuj | [do_tgif.sh](do_tgif.sh) |
+| TGIF | 3.7 GB | https://pan.baidu.com/s/15b4NHOemWZl8KMSgKZDSWw?pwd=ppuj  [vocab_tgif.zip](vocab_tgif.zip) | [do_tgif.sh](do_tgif.sh) |
 | VATEX | 3.0 GB | https://pan.baidu.com/s/1d39e3ABLbM4rfvvdVl5VVQ?pwd=n31h | [do_vatex.sh](do_vatex.sh) |
 
 ## Features
