@@ -46,3 +46,20 @@ We extract visual/text features by publicly available deep models.
 | :-----| :-----|  :-----| :-----|
 | clip_finetune_8frame_uniform_1103 |CLIP|https://github.com/openai/CLIP|Radford et al. Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.|
 
+
+
+## For your datasets
+
+You could use [build_vocab.py](../build_vocab.py) to build your bow and gru feature.
+
+```shell
+train_collection='msrvtt10k'
+overwrite=1
+
+for encoding in bow bow_nsw gru
+do
+    python build_vocab.py $train_collection --encoding $encoding --overwrite $overwrite
+done
+
+```
+
