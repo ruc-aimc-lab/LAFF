@@ -26,6 +26,8 @@ download the pretrained model for LAFF-ml(MV-test3k).
 
 BaiduYun link: https://pan.baidu.com/s/1iTrBQSs1up1rX_QL4qSDdw?pwd=ajfn 
 
+GoogleDrive link: https://drive.google.com/drive/folders/1A2f3qtBsNd1cbOkwOke0NpjAuItyM6K9?usp=sharing
+
 ```shell
 python predictor.py --device 1 msrvtt1kAtest FrameLaff_NoFrameFc_StrongCLIP_adjust-model_best.pth.tar msrvtt10ktrain/msrvtt10kval/laff --rootpath ~/VisualSearch --batch_size 512 --query_sets msrvtt1kAtest.caption.txt --overwrite 1
 ```
